@@ -1,4 +1,4 @@
-📦 Sound Box
+Headphones
 
 Uma landing page moderna e responsiva desenvolvida para apresentar e demonstrar fones de ouvido premium. O objetivo do projeto é simular uma página de venda, destacando o design do produto, funcionalidades e chamada para ação.
 
