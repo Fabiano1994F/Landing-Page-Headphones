@@ -24,3 +24,7 @@ Seções com informações do produto
 Botões de compra e interação
 
 Animações e efeitos simples com JavaScript
+
+📄 Status
+
+✔️ Projeto concluído.
